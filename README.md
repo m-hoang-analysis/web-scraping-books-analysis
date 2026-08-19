@@ -43,15 +43,14 @@ Les données sont ensuite nettoyées, analysées et visualisées.
 - Prix maximum : **59,99 £**
 - Note moyenne : **2,92 / 5**
 
-### Répartition des notes
+### ⭐ Répartition des notes
 
-| Note | Nombre de livres |
-|---|---:|
-| ⭐ | 226 |
-| ⭐⭐ | 196 |
-| ⭐⭐⭐ | 203 |
-| ⭐⭐⭐⭐ | 179 |
-| ⭐⭐⭐⭐⭐ | 196 |
+![Répartition des notes des 1 000 livres](repartition_notes.png)
+
+### 💷 Prix moyen selon la note
+
+![Prix moyen des livres selon leur note](prix_moyen_par_note.png)
+
 
 ## 💡 Conclusion
 
